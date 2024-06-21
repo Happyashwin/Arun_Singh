@@ -1,0 +1,37 @@
+.contact-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contact-button a {
+    color: #fff;
+    text-decoration: none;
+}
+header {
+    background-color: #f9f9f9;
+    border-radius: 0 0 20px 20px;
+    /* Adjust the radius values as needed */
+}
+.contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.contact-button:hover {
+    background-color: #0056b3;
+}
+
+
